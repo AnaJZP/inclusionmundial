@@ -50,4 +50,4 @@ También puedes ejecutar el análisis por bloques, según la sección de ejemplo
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia MIT.
+Este proyecto posee la licencia de mucho amor a los datos y a los tacos.
