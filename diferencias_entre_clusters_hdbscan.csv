@@ -1,0 +1,11 @@
+INDICADOR,F_VALUE,P_VALUE,SIGNIFICATIVO
+Number of debit cards,65.9920010233188,7.12623183184426e-07,True
+Number of automated teller machines (ATMs),14.501102664203467,0.001546308862546514,True
+Credit cards,10.729014709666467,0.006635015997878771,True
+Debit cards,3.084922212137858,0.09941069691374096,False
+Automated teller machines (ATMs) country wide,3.032877464414535,0.10078195253546898,False
+"Outstanding loans, Commercial banks",1.3877949653015662,0.2584151480177997,False
+"Outstanding loans, Commercial banks, Assets",0.8356287151012515,0.37612526778061195,False
+"Outstanding deposits, Commercial banks, Liabilities",0.6941448017493548,0.4187456251033713,False
+Commercial banks,0.2520134382622301,0.6224987441808774,False
+"Outstanding deposits, Commercial banks",0.02318713261602451,0.8811441607301473,False

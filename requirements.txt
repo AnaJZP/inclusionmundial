@@ -1,0 +1,24 @@
+# Dependencias principales para análisis de datos
+pandas>=1.5.0
+numpy>=1.22.0
+scipy>=1.8.0
+
+# Visualización
+matplotlib>=3.5.0
+seaborn>=0.12.0
+plotnine>=0.10.0
+pillow>=9.0.0
+
+# Machine Learning y análisis multivariado
+scikit-learn>=1.1.0
+hdbscan>=0.8.29
+
+# Visualizaciones avanzadas (opcionales pero recomendadas)
+umap-learn>=0.5.3
+geopandas>=0.12.0
+descartes>=1.1.0
+shapely>=2.0.0
+
+# Soporte para notebooks (opcional)
+ipykernel>=6.0.0
+jupyter>=1.0.0
